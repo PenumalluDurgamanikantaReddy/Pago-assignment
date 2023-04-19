@@ -1,0 +1,28 @@
+.carousel{
+
+    height: 20%;
+    display: flex;
+    align-items: center;
+    margin: 0;
+    padding: 0;
+    margin-bottom: 0;
+}
+
+
+
+.carousels{
+    margin: 0;
+    padding: 0;
+ 
+    display: flex;
+    align-items: center;
+    align-content: center;
+    justify-content: center;
+    margin-bottom: 0;
+}
+
+.bgclass{
+    padding: 10%;
+    background: -webkit-linear-gradient(left top, #193eca 0%, #2f76f2 100%);
+}
+

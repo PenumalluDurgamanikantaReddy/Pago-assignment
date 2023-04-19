@@ -1,0 +1,38 @@
+      
+      #cont{
+        background: -webkit-linear-gradient(left top, #193eca 0%, #2f76f2 100%);
+
+   
+        border-radius: 1000px;
+        padding: 25%;
+      }
+      
+      #box{
+        background: white;
+     
+        border-radius: 1000px;
+      }
+
+      .circlee{
+
+        right:35rem;
+        position: absolute;
+      }
+
+      /* #cont{
+        background: -webkit-linear-gradient(left top, crimson 0%, #f90 100%);
+        width: 300px;
+        height: 300px;
+        border-radius: 1000px;
+        padding: 10px;
+      }
+      
+      #box{
+        background: black;
+        width: 300px;
+        height: 300px;
+        border-radius: 1000px;
+      }
+      <div id="cont">
+        <div id="box"></div>
+      </div> */
